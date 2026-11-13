@@ -1,0 +1,8 @@
+{
+  "name": "PEDO PMO Asset Management",
+  "description": "Shared PEDO PMO office asset register, assignment tracking, maintenance logs, and backup PWA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
