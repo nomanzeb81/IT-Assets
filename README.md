@@ -10,8 +10,7 @@ INSTALLATION (Windows server computer)
 5. Keep the server window open.
 6. Find the server computer's LAN IPv4 address: open Command Prompt and run ipconfig.
 7. On each office PC/mobile connected to the same LAN, open: http://SERVER-IP:8000
-   Example only: http://192.168.1.20:8000
-8. Sign in using the office password.
+ 8. Sign in using the office password.
 
 NETWORK FIREWALL
 Allow Python through Windows Defender Firewall on Private networks only, or create a TCP inbound rule for port 8000 restricted to the office LAN subnet. Do not expose port 8000 directly to the public internet.
